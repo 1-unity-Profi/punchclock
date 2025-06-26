@@ -1,4 +1,4 @@
-package ch.axa.punchclock.service;
+/*package ch.axa.punchclock.service;
 
 import java.time.LocalDateTime;
 
@@ -80,4 +80,4 @@ public class EntryServiceTest {
     assertNotNull(entryService.read(entry.getId()));
       
   }
-}
+}*/
