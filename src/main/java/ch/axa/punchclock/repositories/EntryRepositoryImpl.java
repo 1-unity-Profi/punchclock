@@ -29,5 +29,5 @@ public class EntryRepositoryImpl implements EntryRepositoryCustom {
         
         return em.createQuery(cq).getResultList();
     }
-
+ 
 }
