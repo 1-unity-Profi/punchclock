@@ -13,7 +13,7 @@ import jakarta.persistence.NamedQuery;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
-
+//test
 @Entity
 @Table(name = "category")
 public class Category {
